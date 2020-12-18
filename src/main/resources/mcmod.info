@@ -1,0 +1,9 @@
+[{
+  "modid": "IceVideo",
+  "name": "IceVideo",
+  "description": "Play Video In Minecraft Window",
+  "version": "1..0",
+  "mcversion": "1.15.2",
+  "url": "https://ice-cold.ltd/",
+  "authorList": ["ice-cold"]
+}]
